@@ -7,6 +7,11 @@
  * 6. input gulo theke value newar jonne event handler use korte hobe and sobgula value attach korar jonne form er moddhe onsubmit event handler er maddhome sob value nite hobe;
  * 7. npm install --save react-firebase-hooks
  * 8. useCreateUserWithEmailAndPassword from react-firebase-hooks
+ * 9. jodi user create kora thake tahole jei page theke asche oi page a redirect kore niye jabe
+ * 10. usingSignInEmailAndPassword for Log in
+ * 11. requireAuth banate hbe, user kon jaiga theke asche location track korte hobe
+ * 12. jegula jegula protected korbo segula requireAuth er vitore rakhbo
+ * 13.
  */
 
 /* 
